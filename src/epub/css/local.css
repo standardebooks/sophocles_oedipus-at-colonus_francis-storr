@@ -127,10 +127,9 @@ p span.i12{
 	padding-left: 13em;
 	text-indent: -1em;
 }
-/* End song, verse
+/* End song, verse */
 
 /* Greek choral sections */
-
 [epub|type~="z3998:song"] div + div{
 	margin-top: 1em;
 }
