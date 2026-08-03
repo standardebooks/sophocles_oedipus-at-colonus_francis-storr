@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/sophocles/oedipus-at-colonus/francis-storr</dc:identifier>
 		<dc:date>2025-01-07T20:31:14Z</dc:date>
@@ -48,11 +48,11 @@
 		<meta property="group-position" refines="#collection-1">2</meta>
 		<meta id="collection-2" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
-		<dc:description id="description">A prophecy is fulfilled when an exiled king dies, providing protection to Athens.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A prophecy is fulfilled when an exiled king dies, providing protection to Athens.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;The once-powerful King Oedipus, now blind and broken, arrives at the sacred grove of Colonus near Athens, searching for a place to rest. Having suffered the tragic consequences of his unintentional crimes—killing his father and marrying his mother—Oedipus reflects on his anguish and the curse that has haunted his life. With the support of his daughters, Antigone and Ismene, he seeks solace and a final resting place.&lt;/p&gt;
 			&lt;p&gt;Although &lt;i&gt;Oedipus at Colonus&lt;/i&gt; is the second of the &lt;a href="https://standardebooks.org/collections/the-theban-plays"&gt;Theban Plays&lt;/a&gt;, it was actually the last to be written, around 406 BCE, near the end of &lt;a href="https://standardebooks.org/ebooks/sophocles"&gt;Sophocles’&lt;/a&gt; life. The play was first performed in 401 BCE, when the playwright’s son, Iophon, presented it at a dramatic competition.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/31</dc:source>
 		<dc:source>https://archive.org/details/sophoclesstor01sophuoft</dc:source>
